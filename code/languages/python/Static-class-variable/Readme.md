@@ -1,6 +1,6 @@
 # Static Class Variables in Python
 
-## [Article on Static Class Variable in Python]([https://iq.opengenus.org/counter-objects-in-python/](https://iq.opengenus.org/static-class-variable-in-python/))
+## [Article on Static Class Variable in Python](https://iq.opengenus.org/static-class-variable-in-python/)
 
  This article covers topics such as :
 * what is class?
